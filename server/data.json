@@ -1,0 +1,125 @@
+[
+	[
+		{
+			"name": "Мясная бомба",
+			"image": "http://localhost:3000/assets/burger_1.jpeg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 689,
+			"weight": 520
+		},
+		{
+			"name": "Супер сырный",
+			"image": "http://localhost:3000/assets/burger_2.jpeg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 550,
+			"weight": 512
+		},
+		{
+			"name": "Вечная классика",
+			"image": "http://localhost:3000/assets/burger_3.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 450,
+			"weight": 450
+		}
+	],
+	[
+		{
+			"name": "Начос",
+			"image": "http://localhost:3000/assets/snack_1.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 250,
+			"weight": 220
+		},
+		{
+			"name": "Картошка фри",
+			"image": "http://localhost:3000/assets/snack_2.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 245,
+			"weight": 180
+		},
+		{
+			"name": "Луковые кольца",
+			"image": "http://localhost:3000/assets/snack_3.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 230,
+			"weight": 160
+		}
+	],
+	[
+		{
+			"name": "Домашний хот-дог",
+			"image": "http://localhost:3000/assets/hot_dog_1.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 290,
+			"weight": 250
+		},
+		{
+			"name": "Жгучий хот-дог",
+			"image": "http://localhost:3000/assets/hot_dog_2.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 239,
+			"weight": 245
+		},
+		{
+			"name": "Классический хот-дог",
+			"image": "http://localhost:3000/assets/hot_dog_3.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"structure": [
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum",
+				"Lorem Ipsum"
+			],
+			"price": 220,
+			"weight": 215
+		}
+	]
+]
